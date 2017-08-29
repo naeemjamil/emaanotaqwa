@@ -1,0 +1,11 @@
+<resources>
+    <string name="APP_NAME">مناجاة الفقير</string>
+    <string name="AAJ_KI_DUA">Aaj ki duain</string>
+    <string name="SURA_YASIN">Sura Yasin</string>
+    <string name="SURA_WAQIA">Sura Waqia</string>
+    <string name="SURA_MULK">Sura Mulk</string>
+    <string name="SURA_KAHAF">Sura Kahaf</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+</resources>

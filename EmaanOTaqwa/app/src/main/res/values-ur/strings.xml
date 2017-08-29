@@ -1,0 +1,11 @@
+<resources>
+    <string name="APP_NAME">ایمان و تقویٰ</string>
+    <string name="AAJ_KI_DUA">آج کی دعائیں</string>
+    <string name="SURA_YASIN">سورۃ یٰس</string>
+    <string name="SURA_WAQIA">سورۃ واقعہ</string>
+    <string name="SURA_MULK">سورۃ ملک</string>
+    <string name="SURA_KAHAF">سورۃ کہف</string>
+    <string name="red">RED</string>
+    <string name="blue">BLUE</string>
+    <string name="green">GREEN</string>
+</resources>
